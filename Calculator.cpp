@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// code for calculator
 int main() {
     char operation;
     double num1, num2;
